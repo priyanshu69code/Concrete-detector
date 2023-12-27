@@ -1,6 +1,3 @@
-# Concrete-detector
-Certainly! Below is a sample `readme.md` file that you can use for your Google Colab notebook:
-
 # Wall Crack Prediction using YOLO
 
 This project focuses on predicting wall cracks in videos using the YOLO (You Only Look Once) model. The model is trained to detect and highlight wall cracks in the provided video.
@@ -49,5 +46,3 @@ To run the prediction, follow these steps:
 
 - Adjust the confidence threshold (`conf=0.77`) as needed for your use case.
 ```
-
-Feel free to customize this `readme.md` according to your specific project details and requirements.
